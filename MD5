@@ -1,11 +1,11 @@
-22ef9190b5c69c74b6609769ebdb712f *DESCRIPTION
-98c0d8f14a41dbddcf4fec6be416b213 *NAMESPACE
-82e03454b7a30d87db7754bbc1013189 *NEWS.md
-2f080c5ec8d50224cc25c41f49d358d8 *R/borders.R
+00cee9a08d79e2a4c66219e93228316e *DESCRIPTION
+34e42c7a19da8a81537bbfdf1fe8a2cf *NAMESPACE
+94199eb84d2e21ac3031c199bbdc044b *NEWS.md
+cfc0d1c517e23dbcbc1f2969eff8d5d3 *R/borders.R
 cbae6f1e7a04778e2815aa085a1e425f *R/edbuildmapr.R
 200bd5d2cb5f5b7c4edb94ca3f59a52b *R/globals.R
-beeebefd910e3c6bbd28fa7ece50ed36 *R/sd_map.R
-d4cae60634f1c537c69d1a5d9c99e285 *R/sd_neighbor_map.R
+f6e4ec48e4b0d70282645e66cd82f278 *R/sd_map.R
+54e93c0aa4fe544e4c3bd74d11e60e29 *R/sd_neighbor_map.R
 2a862412c1d90e21d20be96606073443 *R/sd_shapepull.R
 d7bd62c5a758e2cb08755ea2caab58ca *README.md
 f5e46fdc7b4bae71f9cc5738729b9748 *man/borders.Rd
